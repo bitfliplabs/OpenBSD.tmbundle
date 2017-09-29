@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>puevf@uhkgnoyr.pn</string>
+	<key>contactName</key>
+	<string>Christian Huxtable</string>
+	<key>description</key>
+	<string>Support for many &lt;a href="https://www.openbsd.org"&gt;OpenBSD&lt;/a&gt; configs and tools.</string>
+	<key>name</key>
+	<string>OpenBSD</string>
+	<key>uuid</key>
+	<string>E558DBEE-91D3-47D0-968B-6D5D7A64A0CF</string>
+</dict>
+</plist>
