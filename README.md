@@ -9,5 +9,5 @@ Install
 ```sh
 mkdir -p ~/Library/Application\ Support/TextMate/Bundles
 cd ~/Library/Application\ Support/TextMate/Bundles
-git clone https://github.com/chris-huxtable/Huxtable.tmbundle.git
+git clone https://github.com/bitfliplabs/OpenBSD.tmbundle.git
 ```
