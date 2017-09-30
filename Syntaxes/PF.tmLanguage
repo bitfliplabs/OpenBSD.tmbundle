@@ -26,7 +26,7 @@
 			<key>match</key>
 			<string>\b(?&lt;!-)(pass|block|match|drop|to|from|rdr-to|nat-to)(?!-)\b</string>
 			<key>name</key>
-			<string>support.function.kernel.pf</string>
+			<string>support.function.pf</string>
 		</dict>
 		<dict>
 			<key>match</key>

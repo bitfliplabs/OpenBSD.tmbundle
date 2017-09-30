@@ -38,7 +38,7 @@
 			<key>match</key>
 			<string>\b(?&lt;!-)(to|from)(?!-)\b</string>
 			<key>name</key>
-			<string>support.function.kernel.iked</string>
+			<string>support.function.iked</string>
 		</dict>
 		<dict>
 			<key>match</key>
