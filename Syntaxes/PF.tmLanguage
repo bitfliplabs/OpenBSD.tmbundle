@@ -12,7 +12,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(?&lt;!-)(anchor|quick|on|proto|on|received-on|port|set|table|const|icmp-type)(?!-)\b</string>
+			<string>\b(?&lt;!-)(anchor|quick|proto|received-on|port|set|table|const|icmp-type|reply-to|route-to|dup-to|antispoof)(?!-)\b</string>
 			<key>name</key>
 			<string>keyword.control.pf</string>
 		</dict>
@@ -24,7 +24,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(?&lt;!-)(pass|block|match|drop|to|from|rdr-to|nat-to)(?!-)\b</string>
+			<string>\b(?&lt;!-)(pass|block|match|drop|to|from|on|log|rdr-to|nat-to|scrub|for)(?!-)\b</string>
 			<key>name</key>
 			<string>support.function.pf</string>
 		</dict>
