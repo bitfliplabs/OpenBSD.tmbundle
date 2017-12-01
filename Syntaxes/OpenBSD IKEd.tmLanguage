@@ -12,7 +12,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(?&lt;!-)(ikev2|ikesa|childsa|enc|group|auth|prf|local|peer|srcid|dstid|psk|tag|tap|config)(?!-)\b</string>
+			<string>\b(?&lt;!-)(ikev2|ikesa|childsa|psk|tag|tap|config)(?!-)\b</string>
 			<key>name</key>
 			<string>keyword.control.iked</string>
 		</dict>
@@ -36,7 +36,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(?&lt;!-)(to|from)(?!-)\b</string>
+			<string>\b(?&lt;!-)(to|from|local|peer|enc|group|auth|prf|srcid|dstid)(?!-)\b</string>
 			<key>name</key>
 			<string>support.function.iked</string>
 		</dict>
